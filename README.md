@@ -1,5 +1,5 @@
 # Spatio-Temporal-Prediction-of-Land-Subsidence-using-Kriging-and-LSTM
-**Part of my Master's program application, 2024 @ NCKU Resource Engineering**
+**Part of my Master's program application, Oct 2024 @ NCKU Resource Engineering**
 ![Made with R](https://img.shields.io/badge/Made%20with-R-276DC3?logo=r&logoColor=white)
 
 **Note:The data is for demonstration purposes, not accurate.**
