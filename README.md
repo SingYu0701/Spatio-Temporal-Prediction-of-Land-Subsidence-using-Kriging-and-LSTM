@@ -2,7 +2,11 @@
 **Part of my Master's program application, 2024 @ NCKU Resource Engineering**
 ![Made with R](https://img.shields.io/badge/Made%20with-R-276DC3?logo=r&logoColor=white)
 
+**Note:The data is for demonstration purposes, not accurate.**
+
+
 This project develops a spatio-temporal prediction framework for land subsidence by integrating **geostatistical interpolation** and **deep learning**. The study focuses on the Yunlin region in Taiwan, where groundwater over-extraction has caused severe subsidence.
+
 
 
 The model combines:
